@@ -1,2 +1,2 @@
-# sms_spam_classifier-
-I developed this sms spam classifier using python
+# sms-spam-classifier-new
+End to end code for the sms spam classifier project
